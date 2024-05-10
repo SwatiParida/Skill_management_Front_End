@@ -1,0 +1,8 @@
+.custom-navbar {
+    background-color: rgb(100, 100, 228); /* Change to your desired shade of blue */
+}
+
+.custom-navbar .navbar-nav .nav-link {
+    color: white; /* Set text color to white */
+    padding: 10px 20px; /* Adjust padding as needed */
+}
